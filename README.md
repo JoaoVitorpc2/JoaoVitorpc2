@@ -10,9 +10,12 @@
 - 📫 Como entrar em contato comigo: ...
 - 😄 Pronomes: ...
 - ⚡ Curiosidade: ...
+  
+            <i class="devicon-android-plain colored"></i>
+          
 -->
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+          
           
 
             
