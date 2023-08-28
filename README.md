@@ -12,9 +12,11 @@
 - 😄 Pronomes: ...
 - ⚡ Curiosidade: ...
   
-           ## Estou aprendendo
+## Algumas ferramentas que estou utilizado no momento para uso
 
 ![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/48cd4a74-02c2-4134-aa71-3d0cc1320c3d)
+![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/93d0f83c-6c0e-42a9-95a4-1b5fb17a5a22)
+![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/4c0e0785-d10f-4ffc-bf29-d1a3db225dbd)
 
        
 -->
