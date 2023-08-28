@@ -11,8 +11,8 @@
 - 😄 Pronomes: ...
 - ⚡ Curiosidade: ...
   
-            <i class="devicon-android-plain colored"></i>
-          
+           
+ <i class="devicon-android-plain colored"></i>       
 -->
 
           
