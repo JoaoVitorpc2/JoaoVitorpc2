@@ -15,5 +15,5 @@ Aqui estão algumas idéias para você começar:
 - ⚡ Curiosidade: ...
 -->
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" />
           
