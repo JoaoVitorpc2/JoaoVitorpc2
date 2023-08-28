@@ -1,6 +1,7 @@
 <! --
 **JoaoVitorpc2/JoaoVitorpc** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
 ## Olá pessoal    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 - 🔭 Atualmente estou trabalhando em...
 - 🌱 Atualmente estou aprendendo ...
@@ -12,7 +13,7 @@
 - ⚡ Curiosidade: ...
   
            
- <i class="devicon-android-plain colored"></i>       
+       
 -->
 
           
