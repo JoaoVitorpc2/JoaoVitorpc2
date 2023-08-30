@@ -4,7 +4,6 @@
 <! --
 **JoaoVitorpc2/JoaoVitorpc** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
 ## Olá pessoal ! :grinning::grinning: ##   
-![Snake animation](https://github.com/JoaoVitorpc2/JoaoVitorpc2/blob/output/github-contribution-grid-snake.svg)
 
 
 ![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/ceea8148-415d-45f1-809e-af560da68c00)
@@ -47,9 +46,22 @@
 <a href = "mailto:joaovitor.pc03@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-pereira-constantino-475088213/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-          
-          
 
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
             
 
           
