@@ -21,17 +21,22 @@
     experiência dentro da área, saberá nos dar o caminho para a direção do próximo passo a ser feito
 - 📫 Como entrar em contato comigo:
 
+
+
   Logo Abaixo terá informações do que estou utilizando no qual o aprendizado será de forma contínua e informações minhas
   para contato:
   
 ## Algumas ferramentas que estou utilizado no momento para uso
 
+<div><video alt="Grand Theft Auto Gta 5 GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnQ0OGMxdHg4Z2NmNDV4ZHZqYXBndTM5ZXo4dXoyam9odno3bGZlaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xAdtMyM5YEcRq/giphy.mp4" poster="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnQ0OGMxdHg4Z2NmNDV4ZHZqYXBndTM5ZXo4dXoyam9odno3bGZlaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xAdtMyM5YEcRq/giphy_s.gif" autoplay="" loop="" playsinline="" style="width: 500px; height: 231px; left: 0px; top: 0px;"></video><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnQ0OGMxdHg4Z2NmNDV4ZHZqYXBndTM5ZXo4dXoyam9odno3bGZlaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xAdtMyM5YEcRq/giphy.gif" alt="Grand Theft Auto Gta 5 GIF" style="width: 500px; height: 231px; left: 0px; top: 0px; opacity: 0;"></div>
+
 ![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/48cd4a74-02c2-4134-aa71-3d0cc1320c3d)
 ![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/86cd2cca-4903-442f-bab8-c4e82c11d7f6)
-
+![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/2b5cfeb6-3361-4f2b-a501-09be8e975fe8)
+![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/10ffd0e5-1053-47e6-be39-ae10994da1bf)
 
 ![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/93d0f83c-6c0e-42a9-95a4-1b5fb17a5a22)
-![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/4c0e0785-d10f-4ffc-bf29-d1a3db225dbd)
+
 
        
 -->
