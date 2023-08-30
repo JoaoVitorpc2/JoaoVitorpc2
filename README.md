@@ -4,7 +4,10 @@
 <! --
 **JoaoVitorpc2/JoaoVitorpc** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
 ## Olá pessoal ! :grinning::grinning: ##   
-    
+    ![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/bbf261af-9e09-4385-b573-55779930a002)![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/86bf9977-84ec-4963-b4c3-f37527f76e28)![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/aef458c6-2322-4f55-9337-7b2ed0aa43ff)
+
+
+
 
 - 🔭 Atualmente estou trabalhando como Atendente de Suporte Técnico na ALARES Internet 
 - 🌱 Atualmente estou aprendendo Ciências de dados em Bootcamp com a institução SANTANDER
