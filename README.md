@@ -4,9 +4,10 @@
 <! --
 **JoaoVitorpc2/JoaoVitorpc** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
 ## Olá pessoal ! :grinning::grinning: ##   
-    ![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/bbf261af-9e09-4385-b573-55779930a002)![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/86bf9977-84ec-4963-b4c3-f37527f76e28)![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/aef458c6-2322-4f55-9337-7b2ed0aa43ff)
+![Snake animation](https://github.com/JoaoVitorpc2/JoaoVitorpc2/blob/output/github-contribution-grid-snake.svg)
 
 
+![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/ceea8148-415d-45f1-809e-af560da68c00)
 
 
 - 🔭 Atualmente estou trabalhando como Atendente de Suporte Técnico na ALARES Internet 
@@ -27,6 +28,9 @@
 ## Algumas ferramentas que estou utilizado no momento para uso
 
 ![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/48cd4a74-02c2-4134-aa71-3d0cc1320c3d)
+![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/86cd2cca-4903-442f-bab8-c4e82c11d7f6)
+
+
 ![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/93d0f83c-6c0e-42a9-95a4-1b5fb17a5a22)
 ![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/4c0e0785-d10f-4ffc-bf29-d1a3db225dbd)
 
