@@ -1,13 +1,9 @@
-<style>
-  body {
-    background-color: #000;
-  }
-</style>
-
-
-
 
 <! --
+body {
+    background-color: #000;
+  }
+
 **JoaoVitorpc2/JoaoVitorpc** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
 ## Olá pessoal ##   
     
