@@ -3,7 +3,7 @@
 
 <! --
 **JoaoVitorpc2/JoaoVitorpc** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
-## Olá pessoal ! :grinning: :grinning:##   
+## Olá pessoal ! :grinning::grinning: ##   
     
 
 - 🔭 Atualmente estou trabalhando como Atendente de Suporte Técnico na ALARES Internet 
