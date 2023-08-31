@@ -26,7 +26,7 @@
   Logo Abaixo terá informações do que estou utilizando no qual o aprendizado será de forma contínua e informações minhas
   para contato:
   
-## Algumas ferramentas que estou utilizado no momento para uso
+## Algumas ferramentas que estou utilizando no momento para uso
 
 <div><video alt="Grand Theft Auto Gta 5 GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnQ0OGMxdHg4Z2NmNDV4ZHZqYXBndTM5ZXo4dXoyam9odno3bGZlaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xAdtMyM5YEcRq/giphy.mp4" poster="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnQ0OGMxdHg4Z2NmNDV4ZHZqYXBndTM5ZXo4dXoyam9odno3bGZlaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xAdtMyM5YEcRq/giphy_s.gif" autoplay="" loop="" playsinline="" style="width: 500px; height: 231px; left: 0px; top: 0px;"></video><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnQ0OGMxdHg4Z2NmNDV4ZHZqYXBndTM5ZXo4dXoyam9odno3bGZlaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xAdtMyM5YEcRq/giphy.gif" alt="Grand Theft Auto Gta 5 GIF" style="width: 500px; height: 231px; left: 0px; top: 0px; opacity: 0;"></div>
 
