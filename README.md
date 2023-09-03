@@ -9,6 +9,11 @@
 ![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/ceea8148-415d-45f1-809e-af560da68c00)
 
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVitorpc2)](https://github.com/JoaoVitorpc2/github-readme-stats)
+
+
+
 - 🔭 Atualmente estou trabalhando como Atendente de Suporte Técnico na ALARES Internet 
 - 🌱 Atualmente estou aprendendo Ciências de dados em Bootcamp com a institução SANTANDER
 - 👯 Estou procurando colaborar em softskills e hardskills para empresas que facilitam o uso dia a dia dos clientes
