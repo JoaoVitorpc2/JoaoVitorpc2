@@ -36,10 +36,16 @@
 ![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/ceea8148-415d-45f1-809e-af560da68c00)
 
 
+<div class="my-images">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoVitorpc2&show_icons=true&theme=neon&locale=pt-br" alt="Anurag's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoVitorpc2&show_icons=true&theme=vue&locale=pt-br" alt="Anurag's GitHub stats">
+
+</div>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVitorpc2&show_icons=true&theme=radical&locale=pt-br)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVitorpc2&show_icons=true&theme=radical)
+
+ 
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&theme=radical&locale=pt-br)
