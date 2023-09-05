@@ -1,3 +1,5 @@
+<head>
+
 
 
 ![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/123c2755-7584-4f77-a1d2-22ecf8359db8)![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/123c2755-7584-4f77-a1d2-22ecf8359db8)![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/6cb86171-4c51-4456-811c-d189b4337163)![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/48dcfd55-bdf9-4183-ac5b-3632e8b70226)![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/ace875ca-f791-41b8-947f-103e9eeca380)![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/46ecafed-5c28-4721-8602-a0f12eb0ebf6)![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/60f5bb7f-7a7f-479f-8eeb-1d1bcc110fdb)![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/c671fe0d-104f-4bd1-b22d-19a214f1f2c4)
@@ -8,18 +10,21 @@
 ## Contatos:
 
 <div>
+    <p>
 <a href="https://www.youtube.com/channel/UCsTV0MxJ81aJqjIu-6C2-Sg" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/joao_viitorpc/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href = "mailto:joaovitor.pc03@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-pereira-constantino-475088213/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  </p>
+</div>
+
+##
+
+![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)
 
 
-
-
-
-
-
+##
 
 
 ##
@@ -29,17 +34,34 @@
 ##
 
 
-## Olá pessoal ! :grinning::grinning: ##   
 
+![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)
+
+
+
+
+
+
+
+<p>
+  
+</p>
 
 
 ![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/ceea8148-415d-45f1-809e-af560da68c00)
 
+<ul>
+    <li>
+<h1>Minhas estatísticas</h1>
+
+  </li>
+  
+</ul>
 
 <div class="my-images">
 
   <img src="https://github-readme-stats.vercel.app/api?username=JoaoVitorpc2&show_icons=true&theme=neon&locale=pt-br" alt="Anurag's GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoVitorpc2&show_icons=true&theme=vue&locale=pt-br" alt="Anurag's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoVitorpc2&show_icons=true&theme=merko&locale=pt-br" alt="Anurag's GitHub stats">
 
 </div>
 
@@ -47,32 +69,49 @@
 
  
 
+<ul>
+    <li>
+<h1>Ranking de Idiomas utilizados para codar</h1>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&theme=radical&locale=pt-br)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&theme=radical)
+      
+  </li>
+  
+</ul>
+
+
 
 
 💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖
 
-**Me chamo João Vitor e**:
+<h1>Olá pessoal !!! </h1> 
+<h2>
+  **Sejam bem vindos ao meu README, aqui é onde faço minha apresentação mostrando um pouco de quem eu sou 
+e o que costumo fazer**
+</h2>
+
+<h3>Apresentação</h3>
+
+<h3>Me chamo João Vitor e:</h3>
 
 
-- 🔭 Atualmente estou trabalhando como Atendente de Suporte Técnico na ALARES Internet 
-- 🌱 Atualmente estou aprendendo Ciências de dados em Bootcamp com a institução SANTANDER
-- 👯 Estou procurando colaborar em softskills e hardskills para empresas que facilitam o uso dia a dia dos clientes
-- 🤔 Estou procurando ajuda com pessoas interessadas a diversificar o ensino, fazendo que fique uma maneira mais gostosa de aprender
-- 💬 Pergunte-me sobre processos internos, gerenciais de uma empresa que eu possa auxiliá-lo. Como estudante de gestão de TI, nós aprendemos
+- 🔭 **Atualmente estou trabalhando como Atendente de Suporte Técnico na ALARES Internet** 
+- 🌱 **Atualmente estou aprendendo Ciências de dados em Bootcamp com a institução SANTANDER**
+- 👯 **Estou procurando colaborar em softskills e hardskills para empresas que facilitam o uso dia a dia dos clientes** 
+- 🤔 **Estou procurando ajuda com pessoas interessadas a diversificar o ensino, fazendo que fique uma maneira mais gostosa de aprender
+- 💬 **Pergunte-me sobre processos internos, gerenciais de uma empresa que eu possa auxiliá-lo. Como estudante de gestão de TI, nós aprendemos
   na prática e teoria como o processo do início, sendo ampliado até a parte avançada, toda a estrutura como deverá funcionar para empresa
-  realmente dar lucro, com uma gestão de riscos, estratégias a serem feitas...
-- 😄 Pronomes: Nenhum
-- ⚡ Curiosidade: Meu sonho é realmente aprender com quem sabe e quer passar algo relevante para todos nós, pois hoje, quem tem conhecimento e
-    experiência dentro da área, saberá nos dar o caminho para a direção do próximo passo a ser feito
-- 📫 Como entrar em contato comigo:
+  realmente dar lucro, com uma gestão de riscos, estratégias a serem feitas...**
+- 😄 **Pronomes: Nenhum**
+- ⚡ **Curiosidade: Meu sonho é realmente aprender com quem sabe e quer passar algo relevante para todos nós, pois hoje, quem tem conhecimento e
+    experiência dentro da área, saberá nos dar o caminho para a direção do próximo passo a ser feito**
+- 📫 **Como entrar em contato comigo:**
 
 💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖
 
-  Logo Abaixo terá informações do que estou utilizando no qual o aprendizado será de forma contínua e informações minhas
-  para contato:
+  **Logo Abaixo terá informações do que estou utilizando no qual o aprendizado será de forma contínua e informações minhas
+  para contato:**
   
 ## Algumas ferramentas que estou utilizando no momento para uso
 
@@ -108,6 +147,9 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+</head>
+
+
             
 
           
