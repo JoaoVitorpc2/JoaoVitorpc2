@@ -1,11 +1,6 @@
 <head>
 
-
-
-![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/123c2755-7584-4f77-a1d2-22ecf8359db8)![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/123c2755-7584-4f77-a1d2-22ecf8359db8)![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/6cb86171-4c51-4456-811c-d189b4337163)![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/48dcfd55-bdf9-4183-ac5b-3632e8b70226)![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/ace875ca-f791-41b8-947f-103e9eeca380)![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/123c2755-7584-4f77-a1d2-22ecf8359db8)![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/123c2755-7584-4f77-a1d2-22ecf8359db8)![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/6cb86171-4c51-4456-811c-d189b4337163)![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/48dcfd55-bdf9-4183-ac5b-3632e8b70226)![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/ace875ca-f791-41b8-947f-103e9eeca380)
-
-
-
+<a href="https://www.imagensanimadas.com/cat-dinheiro-100.htm"><img src="https://www.imagensanimadas.com/data/media/100/dinheiro-imagem-animada-0011.gif" border="0" alt="dinheiro-imagem-animada-0011" /></a><a href="https://www.imagensanimadas.com/cat-dinheiro-100.htm"><img src="https://www.imagensanimadas.com/data/media/100/dinheiro-imagem-animada-0011.gif" border="0" alt="dinheiro-imagem-animada-0011" /></a><a href="https://www.imagensanimadas.com/cat-dinheiro-100.htm"><img src="https://www.imagensanimadas.com/data/media/100/dinheiro-imagem-animada-0011.gif" border="0" alt="dinheiro-imagem-animada-0011" /></a><a href="https://www.imagensanimadas.com/cat-dinheiro-100.htm"><img src="https://www.imagensanimadas.com/data/media/100/dinheiro-imagem-animada-0011.gif" border="0" alt="dinheiro-imagem-animada-0011" /></a><a href="https://www.imagensanimadas.com/cat-dinheiro-100.htm"><img src="https://www.imagensanimadas.com/data/media/100/dinheiro-imagem-animada-0011.gif" border="0" alt="dinheiro-imagem-animada-0011" /></a>
 
 ## Contatos:
 
@@ -98,12 +93,18 @@
 
 
 💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖
-
 <h1>
-    
-    Olá pessoal!!!
-    
-</h1> 
+    <ul>
+        <li>
+            
+        Olá pessoal !!!
+        
+</h1>
+    </ul>
+        </li>
+
+<img src="https://2.bp.blogspot.com/-nH9dxjLwVKs/U9MYpgNHI1I/AAAAAAAAHcQ/1SfREKkwNJY/s1600/Chamander+evolu%C3%A7%C3%A3o+Nintendo+Blast.gif">
+
 
 <h2>
     
@@ -114,16 +115,18 @@
 </h2>
 
 
+
+
 <ul>
-    <li>
-        <h1>
+    <h1>
+        <li>
             
             Insight de Apresentação
             
 
 </ul>
-    </li>
-        </h1>
+    </h1>
+        </li>
 
    
             
