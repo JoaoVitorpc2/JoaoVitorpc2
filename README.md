@@ -60,8 +60,20 @@
 
 <div class="my-images">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoVitorpc2&show_icons=true&theme=neon&locale=pt-br" alt="Anurag's GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoVitorpc2&show_icons=true&theme=merko&locale=pt-br" alt="Anurag's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoVitorpc2&show_icons=true&theme=neon&locale=pt-br" alt="Anurag's GitHub stats"
+      style=
+      "width: 600px; 
+      height: 300px; 
+      left: 0px; 
+      top: 0px; 
+      opacity: 0;">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoVitorpc2&show_icons=true&theme=merko&locale=pt-br" alt="Anurag's GitHub stats"
+      style=
+      "width: 600px; 
+      height: 300px; 
+      left: 0px; 
+      top: 0px; 
+      opacity: 0;">
   
 
 </div>
