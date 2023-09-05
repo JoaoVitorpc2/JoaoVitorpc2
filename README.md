@@ -47,15 +47,15 @@
 
 ![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/ceea8148-415d-45f1-809e-af560da68c00)
 
-<ul>
-    <li>
-        <h1>
+<h1>
+    <ul>
+        <li>
     
-    Minhas estatísticas
+                Minhas estatísticas
 
-</ul>
-    </li>
-        </h1>
+</h1>
+    </ul>
+        </li>
   
 
 <div class="my-images">
@@ -84,13 +84,19 @@
      
  </p>
 
-<ul>
-    <li>
 <h1>
-    
-    Ranking de Idiomas utilizados para codar
-    
+    <ul>
+        <li>
+            
+            Ranking de Idiomas utilizados para codar
+            
 </h1>
+    </ul>
+        </li>
+    
+
+    
+
 
 <p>
     
@@ -107,17 +113,32 @@
 
 
 💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖
-<h1>
+<p>
+    <h1>
     <ul>
         <li>
             
-        Olá pessoal !!!
-        
+    Olá pessoal !!!
+
+
+   
 </h1>
     </ul>
         </li>
+</p>
 
-<img src="https://2.bp.blogspot.com/-nH9dxjLwVKs/U9MYpgNHI1I/AAAAAAAAHcQ/1SfREKkwNJY/s1600/Chamander+evolu%C3%A7%C3%A3o+Nintendo+Blast.gif">
+<p>
+    <img src="https://2.bp.blogspot.com/-nH9dxjLwVKs/U9MYpgNHI1I/AAAAAAAAHcQ/1SfREKkwNJY/s1600/Chamander+evolu%C3%A7%C3%A3o+Nintendo+Blast.gif" 
+    style=
+      "width: 600px; 
+      height: 300px; 
+      left: 0px; 
+      top: 0px; 
+      opacity: 0;">
+</p>
+
+
+
 
 
 <h2>
@@ -141,6 +162,9 @@
 </ul>
     </h1>
         </li>
+<p>
+    
+</p>
 
    
             
@@ -172,6 +196,7 @@
 
   **Logo Abaixo terá informações do que estou utilizando no qual o aprendizado será de forma contínua e informações minhas
   para contato:**
+  <p></p>
   
 <ul>
     <li>
