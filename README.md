@@ -2,7 +2,7 @@
 
 
 
-![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/123c2755-7584-4f77-a1d2-22ecf8359db8)![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/123c2755-7584-4f77-a1d2-22ecf8359db8)![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/6cb86171-4c51-4456-811c-d189b4337163)![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/48dcfd55-bdf9-4183-ac5b-3632e8b70226)![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/ace875ca-f791-41b8-947f-103e9eeca380)
+![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/123c2755-7584-4f77-a1d2-22ecf8359db8)![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/123c2755-7584-4f77-a1d2-22ecf8359db8)![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/6cb86171-4c51-4456-811c-d189b4337163)![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/48dcfd55-bdf9-4183-ac5b-3632e8b70226)![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/ace875ca-f791-41b8-947f-103e9eeca380)![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/123c2755-7584-4f77-a1d2-22ecf8359db8)![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/123c2755-7584-4f77-a1d2-22ecf8359db8)![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/6cb86171-4c51-4456-811c-d189b4337163)![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/48dcfd55-bdf9-4183-ac5b-3632e8b70226)![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/ace875ca-f791-41b8-947f-103e9eeca380)
 
 
 
@@ -19,17 +19,17 @@
   </p>
 </div>
 
-##
+
 
 ![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)
 
 
+
+
+
 ##
 
-
-##
-
-**JoaoVitorpc2/JoaoVitorpc** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
+***JoaoVitorpc2/JoaoVitorpc*** *é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.*
 
 ##
 
@@ -52,26 +52,40 @@
 
 <ul>
     <li>
-<h1>Minhas estatísticas</h1>
+        <h1>
+    
+    Minhas estatísticas
 
-  </li>
-  
 </ul>
+    </li>
+        </h1>
+  
 
 <div class="my-images">
 
   <img src="https://github-readme-stats.vercel.app/api?username=JoaoVitorpc2&show_icons=true&theme=neon&locale=pt-br" alt="Anurag's GitHub stats">
   <img src="https://github-readme-stats.vercel.app/api?username=JoaoVitorpc2&show_icons=true&theme=merko&locale=pt-br" alt="Anurag's GitHub stats">
+  
 
 </div>
 
+<img src="https://media.giphy.com/media/P2Hy88rAjQdsQ/giphy.gif"><img src="https://media.giphy.com/media/P2Hy88rAjQdsQ/giphy.gif"><img src="https://media.giphy.com/media/P2Hy88rAjQdsQ/giphy.gif"><img src="https://media.giphy.com/media/P2Hy88rAjQdsQ/giphy.gif">
 
-
- 
+ <p>
+     
+ </p>
 
 <ul>
     <li>
-<h1>Ranking de Idiomas utilizados para codar</h1>
+<h1>
+    
+    Ranking de Idiomas utilizados para codar
+    
+</h1>
+
+<p>
+    
+</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&theme=radical&locale=pt-br)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&theme=radical)
@@ -85,23 +99,44 @@
 
 💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖
 
-<h1>Olá pessoal !!! </h1> 
+<h1>
+    
+    Olá pessoal!!!
+    
+</h1> 
+
 <h2>
-  **Sejam bem vindos ao meu README, aqui é onde faço minha apresentação 
+    
+  ***Sejam bem vindos ao meu README pessoal, aqui é onde faço minha apresentação 
     mostrando um pouco de quem eu sou 
-    e o que costumo fazer**
+    e o que costumo fazer***
+    
 </h2>
 
 
 <ul>
     <li>
-        <h3>Apresentação</h3>
-    </li>
+        <h1>
+            
+            Insight de Apresentação
+            
+
 </ul>
+    </li>
+        </h1>
+
+   
+            
 
 
 
-<h3>Me chamo João Vitor e:</h3>
+
+
+<h3>
+
+***Me chamo João Vitor e:***
+    
+</h3>
 
 
 - 🔭 **Atualmente estou trabalhando como Atendente de Suporte Técnico na ALARES Internet** 
@@ -121,16 +156,27 @@
   **Logo Abaixo terá informações do que estou utilizando no qual o aprendizado será de forma contínua e informações minhas
   para contato:**
   
-## Algumas ferramentas que estou utilizando no momento para uso
+<ul>
+    <li>
+        <h1>
+            
+    Algumas ferramentas que estou utilizando no momento para uso
+       
+</ul>
+     </li>
+          </h1>
+         <div><video alt="Grand Theft Auto Gta 5 GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnQ0OGMxdHg4Z2NmNDV4ZHZqYXBndTM5ZXo4dXoyam9odno3bGZlaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xAdtMyM5YEcRq/giphy.mp4" poster="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnQ0OGMxdHg4Z2NmNDV4ZHZqYXBndTM5ZXo4dXoyam9odno3bGZlaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xAdtMyM5YEcRq/giphy_s.gif" autoplay="" loop="" playsinline="" style="width: 500px; height: 231px; left: 0px; top: 0px;"></video><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnQ0OGMxdHg4Z2NmNDV4ZHZqYXBndTM5ZXo4dXoyam9odno3bGZlaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xAdtMyM5YEcRq/giphy.gif" alt="Grand Theft Auto Gta 5 GIF" style="width: 600px; height: 300px; left: 0px; top: 0px; opacity: 0;"></div>
 
-<div><video alt="Grand Theft Auto Gta 5 GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnQ0OGMxdHg4Z2NmNDV4ZHZqYXBndTM5ZXo4dXoyam9odno3bGZlaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xAdtMyM5YEcRq/giphy.mp4" poster="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnQ0OGMxdHg4Z2NmNDV4ZHZqYXBndTM5ZXo4dXoyam9odno3bGZlaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xAdtMyM5YEcRq/giphy_s.gif" autoplay="" loop="" playsinline="" style="width: 500px; height: 231px; left: 0px; top: 0px;"></video><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnQ0OGMxdHg4Z2NmNDV4ZHZqYXBndTM5ZXo4dXoyam9odno3bGZlaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xAdtMyM5YEcRq/giphy.gif" alt="Grand Theft Auto Gta 5 GIF" style="width: 500px; height: 231px; left: 0px; top: 0px; opacity: 0;"></div>
 
-![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/48cd4a74-02c2-4134-aa71-3d0cc1320c3d&theme=dark)
+
+
+
+
 ![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/86cd2cca-4903-442f-bab8-c4e82c11d7f6&theme=dark)
 ![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/2b5cfeb6-3361-4f2b-a501-09be8e975fe8&theme=dark)
 ![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/10ffd0e5-1053-47e6-be39-ae10994da1bf&theme=dark)
 
-![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/93d0f83c-6c0e-42a9-95a4-1b5fb17a5a22)
+
 
 
        
