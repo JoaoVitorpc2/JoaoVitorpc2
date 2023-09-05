@@ -87,11 +87,19 @@
 
 <h1>Olá pessoal !!! </h1> 
 <h2>
-  **Sejam bem vindos ao meu README, aqui é onde faço minha apresentação mostrando um pouco de quem eu sou 
-e o que costumo fazer**
+  **Sejam bem vindos ao meu README, aqui é onde faço minha apresentação 
+    mostrando um pouco de quem eu sou 
+    e o que costumo fazer**
 </h2>
 
-<h3>Apresentação</h3>
+
+<ul>
+    <li>
+        <h3>Apresentação</h3>
+    </li>
+</ul>
+
+
 
 <h3>Me chamo João Vitor e:</h3>
 
