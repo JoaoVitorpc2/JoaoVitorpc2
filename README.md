@@ -73,6 +73,7 @@ style=
 
 💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖
 <p>
+    <div align="center">
     <h1>
     <ul>
         <li>
@@ -84,13 +85,14 @@ style=
 </h1>
     </ul>
         </li>
+    </div>
 </p>
 
 <p>
  <div align="center">
   <img src="https://2.bp.blogspot.com/-nH9dxjLwVKs/U9MYpgNHI1I/AAAAAAAAHcQ/1SfREKkwNJY/s1600/Chamander+evolu%C3%A7%C3%A3o+Nintendo+Blast.gif" 
     style=
-      "width: 750px; 
+      "width: 792px; 
       height: 300px; 
       left: 0px; 
       top: 0px; 
@@ -113,17 +115,18 @@ style=
 
 
 
-
+<div align="center">
 <ul>
     <h1>
         <li>
             
-            Insight de Apresentação
+    Insight de Apresentação
             
 
 </ul>
     </h1>
         </li>
+</div>
 <p>
     
 </p>
@@ -159,36 +162,55 @@ style=
   **Logo Abaixo terá informações do que estou utilizando no qual o aprendizado será de forma contínua e informações minhas
   para contato:**
   <p></p>
-  
+
+  <div align="center">
 <ul>
     <li>
         <h1>
             
-    Algumas ferramentas que estou utilizando no momento para uso
+    Ferramentas/IDEs de programação
        
 </ul>
      </li>
           </h1>
-         <div><video alt="Grand Theft Auto Gta 5 GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnQ0OGMxdHg4Z2NmNDV4ZHZqYXBndTM5ZXo4dXoyam9odno3bGZlaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xAdtMyM5YEcRq/giphy.mp4" poster="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnQ0OGMxdHg4Z2NmNDV4ZHZqYXBndTM5ZXo4dXoyam9odno3bGZlaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xAdtMyM5YEcRq/giphy_s.gif" autoplay="" loop="" playsinline="" style="width: 500px; height: 231px; left: 0px; top: 0px;"></video><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnQ0OGMxdHg4Z2NmNDV4ZHZqYXBndTM5ZXo4dXoyam9odno3bGZlaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xAdtMyM5YEcRq/giphy.gif" alt="Grand Theft Auto Gta 5 GIF" style="width: 600px; height: 300px; left: 0px; top: 0px; opacity: 0;"></div>
+    </div>
+        <div align="center">
+             <video alt="Grand Theft Auto Gta 5 GIF" src="
+                 https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnQ0OGMxdHg4Z2NmNDV4ZHZqYXBndTM5ZXo4dXoyam9odno3bGZlaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xAdtMyM5YEcRq/giphy.mp4" poster="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnQ0OGMxdHg4Z2NmNDV4ZHZqYXBndTM5ZXo4dXoyam9odno3bGZlaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xAdtMyM5YEcRq/giphy_s.gif" 
+                 autoplay="" loop="" playsinline="" style="
+                 width: 700px;
+                 height: 300px;
+                 left: 0px;
+                 top: 0px;">
+                 </video><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnQ0OGMxdHg4Z2NmNDV4ZHZqYXBndTM5ZXo4dXoyam9odno3bGZlaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xAdtMyM5YEcRq/giphy.gif" alt="Grand Theft Auto Gta 5 GIF" 
+style="
+width: 700px;
+height: 300px;
+left: 0px;
+top: 0px;
+opacity: 0;">
+         </div>
 
 
 
 
 
-
+<div align="center">
+    
 ![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/86cd2cca-4903-442f-bab8-c4e82c11d7f6&theme=dark)
 ![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/2b5cfeb6-3361-4f2b-a501-09be8e975fe8&theme=dark)
 ![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/10ffd0e5-1053-47e6-be39-ae10994da1bf&theme=dark)
-
+    
+</div>
 
 
 
        
--->
+
 
 
  
-</div>
+<div align="center">
 
 
 <picture>
@@ -205,6 +227,9 @@ style=
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+</div>
+
 </head>
 
 
