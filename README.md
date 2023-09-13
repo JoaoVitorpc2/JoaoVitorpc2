@@ -87,13 +87,16 @@ style=
 </p>
 
 <p>
-    <img src="https://2.bp.blogspot.com/-nH9dxjLwVKs/U9MYpgNHI1I/AAAAAAAAHcQ/1SfREKkwNJY/s1600/Chamander+evolu%C3%A7%C3%A3o+Nintendo+Blast.gif" 
+ <div align="center">
+  <img src="https://2.bp.blogspot.com/-nH9dxjLwVKs/U9MYpgNHI1I/AAAAAAAAHcQ/1SfREKkwNJY/s1600/Chamander+evolu%C3%A7%C3%A3o+Nintendo+Blast.gif" 
     style=
-      "width: 600px; 
+      "width: 750px; 
       height: 300px; 
       left: 0px; 
       top: 0px; 
       opacity: 0;">
+</div>
+
 </p>
 
 
