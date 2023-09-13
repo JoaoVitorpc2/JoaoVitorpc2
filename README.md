@@ -6,14 +6,14 @@
     
 </h1>
 
-💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖
+💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖
 
 
 <a href="https://www.imagensanimadas.com/cat-dinheiro-100.htm"><img src="https://www.imagensanimadas.com/data/media/100/dinheiro-imagem-animada-0011.gif" border="0" alt="dinheiro-imagem-animada-0011" /></a><a href="https://www.imagensanimadas.com/cat-dinheiro-100.htm"><img src="https://www.imagensanimadas.com/data/media/100/dinheiro-imagem-animada-0011.gif" border="0" alt="dinheiro-imagem-animada-0011" /></a><a href="https://www.imagensanimadas.com/cat-dinheiro-100.htm"><img src="https://www.imagensanimadas.com/data/media/100/dinheiro-imagem-animada-0011.gif" border="0" alt="dinheiro-imagem-animada-0011" /></a><a href="https://www.imagensanimadas.com/cat-dinheiro-100.htm"><img src="https://www.imagensanimadas.com/data/media/100/dinheiro-imagem-animada-0011.gif" border="0" alt="dinheiro-imagem-animada-0011" /></a><a href="https://www.imagensanimadas.com/cat-dinheiro-100.htm"><img src="https://www.imagensanimadas.com/data/media/100/dinheiro-imagem-animada-0011.gif" border="0" alt="dinheiro-imagem-animada-0011" /></a>
 <img src="https://www.imagensanimadas.com/data/media/100/dinheiro-imagem-animada-0011.gif" border="0" alt="dinheiro-imagem-animada-0011" /></a><img src="https://www.imagensanimadas.com/data/media/100/dinheiro-imagem-animada-0011.gif" border="0" alt="dinheiro-imagem-animada-0011" /></a><img src="https://www.imagensanimadas.com/data/media/100/dinheiro-imagem-animada-0011.gif" border="0" alt="dinheiro-imagem-animada-0011" /></a>
 
 
-💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖
+💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖
 
   <h1>
       Informações de Contato:
@@ -53,13 +53,13 @@
 
 
 
-
+💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖
 ##
 
 ***JoaoVitorpc2/JoaoVitorpc*** *é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.*
 
 ##
-
+💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖
 
 
 ![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)![espada](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d86f7f70-ddd1-4038-8dab-8c5de8d2fc6d)
