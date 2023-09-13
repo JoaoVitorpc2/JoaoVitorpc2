@@ -15,8 +15,10 @@
 
 💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖
 
+
+
   <h1>
-      Informações de Contato:
+📫 Informações de Contato:
   </h1>
 
     
@@ -27,14 +29,20 @@
   width="28"
   height="28"
   alt="whatsapp grátis ícone"
-  title="whatsapp grátis ícone">  Contatos
+  title="whatsapp grátis ícone">    Contatos
+
+    
+    
 </h1>
+
 
 
 <p>
 
  <div align="center>   
-    <a href="https://www.youtube.com/channel/UCsTV0MxJ81aJqjIu-6C2-Sg" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+    <a href="https://www.youtube.com/channel/UCsTV0MxJ81aJqjIu-6C2-Sg" target="_blank">
+     <img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+ </a>
     <a href="https://www.instagram.com/joao_viitorpc/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
     <a href = "mailto:joaovitor.pc03@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -180,23 +188,26 @@ style=
 - 😄 **Pronomes: Nenhum**
 - ⚡ **Curiosidade: Meu sonho é realmente aprender com quem sabe e quer passar algo relevante para todos nós, pois hoje, quem tem conhecimento e
     experiência dentro da área, saberá nos dar o caminho para a direção do próximo passo a ser feito**
-- 📫 **Como entrar em contato comigo:**
+
 
 
   <p></p>
 
-  <div align="center">
+  
 <ul>
     <li>
+        <div align="center">
         <h1>
             
     Ferramentas/IDEs de programação
-       
+    
 </ul>
      </li>
+     </div>
           </h1>
-    </div>
-        <div align="center">
+   
+    
+<div align="center">
              <video alt="Grand Theft Auto Gta 5 GIF" src="
                  https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnQ0OGMxdHg4Z2NmNDV4ZHZqYXBndTM5ZXo4dXoyam9odno3bGZlaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xAdtMyM5YEcRq/giphy.mp4" poster="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnQ0OGMxdHg4Z2NmNDV4ZHZqYXBndTM5ZXo4dXoyam9odno3bGZlaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xAdtMyM5YEcRq/giphy_s.gif" 
                  autoplay="" loop="" playsinline="" style="
@@ -211,7 +222,8 @@ height: 300px;
 left: 0px;
 top: 0px;
 opacity: 0;">
-         </div>
+    
+</div>
 
 
 
