@@ -47,55 +47,12 @@
 
 ![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/ceea8148-415d-45f1-809e-af560da68c00)
 
-<h1>
-    <ul>
-        <li>
-    
-                Minhas estatísticas
-
-</h1>
-    </ul>
-        </li>
-  
-
-<div class="my-images">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoVitorpc2&show_icons=true&theme=neon&locale=pt-br" alt="Anurag's GitHub stats"
-      style=
-      "width: 600px; 
-      height: 300px; 
-      left: 0px; 
-      top: 0px; 
-      opacity: 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoVitorpc2&show_icons=true&theme=merko&locale=pt-br" alt="Anurag's GitHub stats"
-      style=
-      "width: 600px; 
-      height: 300px; 
-      left: 0px; 
-      top: 0px; 
-      opacity: 0;">
-  
-
-</div>
 
 <img src="https://media.giphy.com/media/P2Hy88rAjQdsQ/giphy.gif"><img src="https://media.giphy.com/media/P2Hy88rAjQdsQ/giphy.gif"><img src="https://media.giphy.com/media/P2Hy88rAjQdsQ/giphy.gif"><img src="https://media.giphy.com/media/P2Hy88rAjQdsQ/giphy.gif"><img src="https://media.giphy.com/media/P2Hy88rAjQdsQ/giphy.gif"><img src="https://media.giphy.com/media/P2Hy88rAjQdsQ/giphy.gif">
 
  <p>
      
  </p>
-
-<h1>
-    <ul>
-        <li>
-            
-            Ranking de Idiomas utilizados para codar
-            
-</h1>
-    </ul>
-        </li>
-    
-
-    
 
 
 <p>
