@@ -45,7 +45,8 @@
 </p>
 
 
-![image](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/ceea8148-415d-45f1-809e-af560da68c00)
+![giphy](https://github.com/JoaoVitorpc2/JoaoVitorpc2/assets/54817998/d1ae5481-2012-4557-81f2-4ee07c742d32)
+
 
 
 <img src="https://media.giphy.com/media/P2Hy88rAjQdsQ/giphy.gif"><img src="https://media.giphy.com/media/P2Hy88rAjQdsQ/giphy.gif"><img src="https://media.giphy.com/media/P2Hy88rAjQdsQ/giphy.gif"><img src="https://media.giphy.com/media/P2Hy88rAjQdsQ/giphy.gif"><img src="https://media.giphy.com/media/P2Hy88rAjQdsQ/giphy.gif"><img src="https://media.giphy.com/media/P2Hy88rAjQdsQ/giphy.gif">
